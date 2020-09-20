@@ -1,2 +1,2 @@
 # solid-eureka
- Here I will publish various projects
+ So far, there is little information here, but soon everything will change
